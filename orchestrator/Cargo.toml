@@ -4,3 +4,4 @@ default-members = ["gbt"]
 
 
 [patch.crates-io]
+web30 = { git = "https://github.com/althea-net/web30", branch = "christianborst/uniswap-price-oracle-fix" }
